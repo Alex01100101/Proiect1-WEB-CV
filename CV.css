@@ -1,0 +1,45 @@
+﻿body {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.tableWidth{
+    width:25px;
+}
+
+.tableBorder{
+    border: 1px solid black;
+}
+
+.centerAlign{
+    text-align:center;
+}
+
+.rightAlign{
+    text-align:right;
+    font-size:20px;
+}
+
+.tableStyle {
+    background-color: lightblue;
+    text-align: center;
+    width: 300px;
+    vertical-align: text-top;
+}
+
+.imageRadius {
+    border-radius: 50%;
+}
+
+.cellWidth{
+    width:100px
+}
+
+.padding{
+    padding-left:25px;
+}
+
+header {
+    background-color: lightgreen;
+    text-align: right;
+}
